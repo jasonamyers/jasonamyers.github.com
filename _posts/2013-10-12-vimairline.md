@@ -14,7 +14,3 @@ however, I've always put it off.  Nonetheless, I recorded a quick video on
 [vim-airline](https://github.com/bling/vim-airline), and how I have it
 configured.  I hope you enjoy it, and feel free to drop me any suggestions you
 might have about it.
-
-{% highlight html %}
-<iframe width="560" height="315" src="http://www.youtube.com/embed/hQbWoVj3WZ4"> </iframe>
-{% endhighlight %}
