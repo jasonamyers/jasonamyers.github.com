@@ -16,8 +16,6 @@ used to using.
 
 The full set, from clang/Basic/Builtins.def, is:
 
-::
-
     LIBBUILTIN(calloc, "v*zz",        "f",     "stdlib.h", ALL_LANGUAGES)
     LIBBUILTIN(malloc, "v*z",         "f",     "stdlib.h", ALL_LANGUAGES)
     LIBBUILTIN(realloc, "v*v*z",      "f",     "stdlib.h", ALL_LANGUAGES)
