@@ -14,6 +14,17 @@ Mavericks.  One of the problems is that clang has a bunch of "builtin" function
 definitions, and those builtins can conflict with the normal header files we are
 used to using.
 
+One way to deal with that is to just undef the built in copy.  This is not
+a good long term solution as we need to migrate on over to clang and it's built
+ins on OS X. Nonetheless, it will get you back up and working.
+
+For example say it was failing to compile due to a conflict with strlcpy.  You
+could do the following to undefine the built in.
+
+    #ifdef strlcpy
+    #undef strlcpy
+    #endif
+
 The full set, from clang/Basic/Builtins.def, is:
 
     LIBBUILTIN(calloc, "v*zz",        "f",     "stdlib.h", ALL_LANGUAGES)
