@@ -20,18 +20,18 @@ personified. I work every day at [Stratasan](http://www.stratasan.com) developin
 I also organize the [PyTennessee Conference](http://www.pytennessee.org).
 
 ## Open Source Commits
-[SacredPy](https://github.com/reibwo/SacredPy) - Only bible translation/meaning
+* [SacredPy](https://github.com/reibwo/SacredPy) - Only bible translation/meaning
 discussion system.
-[PyTN](https://github.com/pytn/pytn) - Conference Website
-[Django](https://github.com/django/django) - Django Web Framework
-[ResWeb](https://github.com/Pyres/resweb) - Web interface to pyres jobs
-[py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A python library that
+* [PyTN](https://github.com/pytn/pytn) - Conference Website
+* [Django](https://github.com/django/django) - Django Web Framework
+* [ResWeb](https://github.com/Pyres/resweb) - Web interface to pyres jobs
+* [py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A python library that
 allows a process to change its title
 
 ## Boxen Modules
-[boxen/puppet-libreoffice](https://github.com/boxen/puppet-libreoffice)
-[boxen/puppet-evernote](https://github.com/boxen/puppet-evernote)
-[boxen/puppet-spectacle](https://github.com/boxen/puppet-spectacle)
-[boxen/puppet-postbox](https://github.com/boxen/puppet-postbox)
-[boxen/puppet-linkinus](https://github.com/boxen/puppet-linkinus)
-[boxen/puppet-wedge](https://github.com/boxen/puppet-wedge)
+* [boxen/puppet-libreoffice](https://github.com/boxen/puppet-libreoffice)
+* [boxen/puppet-evernote](https://github.com/boxen/puppet-evernote)
+* [boxen/puppet-spectacle](https://github.com/boxen/puppet-spectacle)
+* [boxen/puppet-postbox](https://github.com/boxen/puppet-postbox)
+* [boxen/puppet-linkinus](https://github.com/boxen/puppet-linkinus)
+* [boxen/puppet-wedge](https://github.com/boxen/puppet-wedge)
