@@ -91,8 +91,8 @@ of it.
 
 Life doesn't care about the conference.  Your life and the other organizers
 life will have tremendous events. PyTN saw the birth of two children, a
-marriage, and a few job changes in the organizers committee.  This creates
-a level of stress that seems insurmountable at times. It will pass, and the
-conference shall go on. Don't force people to move through that life event
-any faster than they want to themselves. Simply move the work to someone
+marriage, a death, and a few job changes in the organizers committee.  This
+creates a level of stress that seems insurmountable at times. It will pass,
+and the conference shall go on. Don't force people to move through that life
+event any faster than they want to themselves. Simply move the work to someone
 else.
