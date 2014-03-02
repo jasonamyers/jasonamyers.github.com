@@ -52,32 +52,32 @@ Food | $7,600
 Young Coders | $4,500
 Space Rental | $3,600
 Financial Aid | $2,750
-EventBrite Fees | $400
-Paypal Fees | $1,200
-PyLadies | $250
 Bags | $2,000
 T-shirts | $1,800
-Insurance | $550
-Prizes | $1000
-Badges | $850
-Security | $500
 Printing | $1,500
-Stickers | $900
-PyNash | $600
 TEDxNashville | $1,400
+Paypal Fees | $1,200
+Prizes | $1,000
+Stickers | $900
+Badges | $850
+PyNash | $600
+Insurance | $550
+Security | $500
 Chair Expenses | $400
+EventBrite Fees | $400
+PyLadies | $250
 
 **Total: $31,800**
 
-So the last three I feel need a bit of talking about. So TEDxNashville was the
-501(c)3 we used to back PyTennessee.  This greatly reduced the accounting and
-risk of putting on the event. The money we paid to them was used to help support
-their costs and expenses for servicing our event.  This would have been WAY more
-expensive to attempt to manage and control on our own. We also gave in
-meetup, food and giveaways to PyNash to support the launch of a local Python
-user group. The last one was the cost for me to be able to spend the whole
-weekend in Nashville, I live roughly an hour away and it would have not been
-reasonable for me to drive home and back every day.
+So the TEDx, PyNash, and Chair Expenses I feel need a bit of talking about. So
+TEDxNashville was the 501(c)3 we used to back PyTennessee.  This greatly reduced
+the accounting and risk of putting on the event. The money we paid to them was
+used to help support their costs and expenses for servicing our event.  This
+would have been WAY more expensive to attempt to manage and control on our own.
+We also gave in meetup, food and giveaways to PyNash to support the launch of
+a local Python user group. The last one was the cost for me to be able to spend
+the whole weekend in Nashville, I live roughly an hour away and it would have
+not been reasonable for me to drive home and back every day.
 
 ###Optional Expenses
 Another thing we looked into was having video done of the entire event. To me
@@ -146,8 +146,8 @@ able to give much of it away to a local church and senior center; however, we
 still ended up throwing away food each day that they didn't need or wouldn't
 accept.
 
-What do you wished you could have bought?
------------------------------------------
+What do you wished you could have done differently?
+---------------------------------------------------
 I really wished I could have done more for speakers, keynoters, and volunteers.
 While I was able to offer them a few niceties, they took time out of their own
 schedules, money from their own pockets and handled a lot of stress to make this
