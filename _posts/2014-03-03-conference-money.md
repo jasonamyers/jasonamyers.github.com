@@ -25,14 +25,15 @@ None of these are 100% perfect, but it's how we did it.  NOTE: This is not
 our actually ledger, I rounded things off and I'm not disclosing direct
 amounts to or from individuals.
 
-Before we go there let's talk about a very important part of the finances of
+Before we go there, let's talk about a very important part of the finances of
 a conference. If you don't have an LLC, S-Corp, 501(c)3 etc, you will be
 personally liable for any issues at your event! Reread that sentence again.
 Gonna put in it forth in a different context. If you fail to have the money you
 need, you're the one people will come to for the funds or refunds if the event
 isn't satisfactory. Also, if you have a company behind the event, make sure to
 have an official rep sign any and all binding paper work to protect individuals
-for any extra risk.
+for any extra risk. Get Insurance, and if you feel uncomfortable with anything
+    just don't do it.
 
 Expenses
 -------------
@@ -167,3 +168,15 @@ amazing speaker and keynote line up. I also was initially really sad that we
 couldn't do video this year. Looking back spending that money on young coders,
 and financial aid was a far better use of the funds for our first year. I wasn't
 in a position to have to organize and handle one more task during the event.
+
+I would have also not jumped ahead of the money we had in the bank at each step
+of the vendor selection process. Many times I was personally committing to
+a vendor prior to PyTN having the funds to cover that cost.  This is a huge
+risk, and one I can't even remotely suggest anyone else take on. It lead to
+a ton of sleepless nights and agonizing days. Conferences are a drag on the
+organizers expenses as well. Many deposits have to be made before money is
+available, and many meetings require buying lunch etc prior to there being
+funds.
+
+In reflection, we couldn't have done it differently this year, but we can make
+some changes for next year to close what I saw as short comings.
