@@ -7,6 +7,8 @@ comments: true
 share: true
 ---
 This post is part of a series and the first one is available [here]({{ site.url }}/so-you-wanna-conference/ }})
+So if you read that and your still interested in running a conference let's talk
+about the next scary topic before we move on into the good stuff.
 
 There is simply a never ending list of things that require money when putting
 on a conference.  This is a look at how we raised it, and the decisions we
@@ -19,9 +21,18 @@ ultimately paid in full.  I'm gonna cover those in detail in the expense
 section below with the numbers from PyTennessee.  Next I'm going to cover
 how we settled on the decision to charge for the conference the our ticket
 price.  Finally I'm gonna wrap up with a section on handling sponsorships.
-None of these are 100% perfect, but it's how we did it.  NOTE: this is not
+None of these are 100% perfect, but it's how we did it.  NOTE: This is not
 our actually ledger, I rounded things off and I'm not disclosing direct
 amounts to or from individuals.
+
+Before we go there let's talk about a very important part of the finances of
+a conference. If you don't have an LLC, S-Corp, 501(c)3 etc, you will be
+personally liable for any issues at your event! Reread that sentence again.
+Gonna put in it forth in a different context. If you fail to have the money you
+need, you're the one people will come to for the funds or refunds if the event
+isn't satisfactory. Also, if you have a company behind the event, make sure to
+have an official rep sign any and all binding paper work to protect individuals
+for any extra risk.
 
 Expenses
 -------------
