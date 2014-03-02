@@ -47,7 +47,7 @@ included the RaspberryPis, books, and rooms.  It also  equipment rental to
 have all the needed monitors, keyboard, and mice required to hold the class.
 
 Expense | Amount
-------- | ------
+------- | ------:
 Food | $7,600
 Young Coders | $4,500
 Space Rental | $3,600
