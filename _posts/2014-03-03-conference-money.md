@@ -19,7 +19,7 @@ Step 2: Money
 So a conference has a ton of things that have to have deposits put down and
 ultimately paid in full.  I'm gonna cover those in detail in the expense
 section below with the numbers from PyTennessee.  Next I'm going to cover
-how we settled on the decision to charge for the conference the our ticket
+how we settled on the decision to charge for the conference and our ticket
 price.  Finally I'm gonna wrap up with a section on handling sponsorships.
 None of these are 100% perfect, but it's how we did it.  NOTE: This is not
 our actually ledger, I rounded things off and I'm not disclosing direct
