@@ -6,7 +6,7 @@ tags: [pytn, conference]
 comments: true
 share: true
 ---
-This post is part of a series and the first one is available [here]({{ site.url }}/so-you-wanna-conference/ }})
+This post is part of a series and the first one is available [here]({{ site.url }}/so-you-wanna-conference/)
 So if you read that and your still interested in running a conference let's talk
 about the next scary topic before we move on into the good stuff.
 
