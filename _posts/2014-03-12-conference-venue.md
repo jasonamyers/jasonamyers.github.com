@@ -37,7 +37,7 @@ A/V is the number one headache for speakers once they arrive at your site, and c
 
 WiFi
 ----
-Whatever you get it's never enough... Buy decent bandwidth, know it's not enough, be okay with that... Move on.  
+Whatever you get it's never enough... At the conference strive to have 1 ap/20 attendees (consumer access point) or 1 ap/60 attendees (commerical access point). Also, try to have at least 25Mbps download / 150 attendees.  No that's not a ton of bandwidth, but it will enable email, irc, etc.  At sprints make sure to have 25Mbps / 30 attendees.  These are my thoughts on the idea.  Our wifi wasn't perfect, but it was good enough for the event, and I heard zero complaints about it at sprints.
 
 Food
 ----
