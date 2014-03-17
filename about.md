@@ -25,6 +25,7 @@ discussion system.
 * [PyTN](https://github.com/pytn/pytn) - Conference Website
 * [Django](https://github.com/django/django) - Django Web Framework
 * [ResWeb](https://github.com/Pyres/resweb) - Web interface to pyres jobs
+* [redshift_sqlalchemy](https://github.com/binarydud/redshift_sqlalchemy) - Amazon Redshift SQLAlchemy Dialect
 * [py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A python library that
 allows a process to change its title
 
