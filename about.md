@@ -20,7 +20,9 @@ personified. I work every day at [Stratasan](http://www.stratasan.com) developin
 I also organize the [PyTennessee Conference](http://www.pytennessee.org).
 
 ## Open Source Commits
-* [SacredPy](https://github.com/reibwo/SacredPy) - Only bible translation/meaning
+* [ESLmap](https://github.com/mnhrc/mnhrc.github.io) - Powers the Metro Human Resources
+Commission's [http://www.eslmap.com](http://www.eslmap.com).
+* [SacredPy](https://github.com/reibwo/SacredPy) - Sacred text translation/meaning
 discussion system.
 * [PyTN](https://github.com/pytn/pytn) - Conference Website
 * [Django](https://github.com/django/django) - Django Web Framework
