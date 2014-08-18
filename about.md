@@ -42,12 +42,15 @@ allows a process to change its title
 * [boxen/puppet-wedge](https://github.com/boxen/puppet-wedge)
 
 ## Speaking Videos
+* [PyOhio 2014](http://pyvideo.org/video/2826/introduction-to-pandas) - Introduction to Pandas
 * [PyCon 2014](http://pyvideo.org/video/2654/introduction-to-sqlalchemy-core) - Introduction to SQLAlchemy Core
 * [PyOhio 2013](http://pyvideo.org/video/2291/introduction-to-sqlalchemy-and-alembic-migrations) - Introduction to SQLAlchemy and Alembic
 * [MemPy 2013](https://www.youtube.com/watch?v=jvBfm0q9_qk) - Selenium UI
 
 ## Slides and or Code From Presentations
 
+* [Systems Programming Day 2014 (Nashville)](http://www.slideshare.net/jamdatadude/spanning-tree-38011328)
+* [PyOhio 2014](https://github.com/jasonamyers/pyohio-2014-pandas) - Introduction to Pandas [Viewable](http://www.slideshare.net/jamdatadude/introduction-to-pandas-37337080)
 * [PyCon 2014](https://github.com/jasonamyers/pycon2014) - Introduction to SQLAlchemy Core [Viewable](http://www.slideshare.net/jamdatadude/sql-alchemy-core-an-introduction)
 * [PyOhio 2013](https://github.com/jasonamyers/intro-sqlalchemy-alembic-presentation) - Introduction to SQLAlchemy and Alembic [Viewable](http://www.slideshare.net/jamdatadude/introduction-to-sqlalchemy-and-alembic-migrations)
 * [Nashville PHP 2013](https://github.com/jasonamyers/php-yield-presentation) - Generating Power with Yield [Viewable](http://www.slideshare.net/jamdatadude/generating-power-with-yield)
