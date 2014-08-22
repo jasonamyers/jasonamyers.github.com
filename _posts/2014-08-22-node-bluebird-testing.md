@@ -1,20 +1,22 @@
 ---
 layout: post
-title: "Testing bluebird promises with mocha"
+title: "Testing Bluebird promises with Mocha"
 description: "a look at some things you might encounter testing with bluebird
-and mocha"
+and Mocha"
 tags: [Javascript, Bluebird, Mocha, Testing]
 comments: true
 share: true
 ---
 
 So I have a node.js application that contains the getAccountInfoFromToken
-function below, and I want to test it with mocha.
+function below, and I want to test it with Mocha. This function has been gutted
+and the account details are embedded now instead of called in to make the
+example clearer.
 
     Promise = require('bluebird'),
     getAccountInfoFromToken: function(token) {
         return new Promise(function(resolve, reject){
-            // Get Account details from api.int/me
+            // Get Account details
             var sample_return = {
                 "accounts": [
                     {
@@ -31,7 +33,7 @@ function below, and I want to test it with mocha.
         });
     }
 
-So initial I took a very naive approach to the test because I wasn't clear on
+So initially I took a very naive approach to the test because I wasn't clear on
 how javascript compared arrays. So I had the test you see below.
 
     "use strict";
@@ -53,7 +55,7 @@ how javascript compared arrays. So I had the test you see below.
         });
     });
 
-However Mocha would report that as a pass but then I got a warning from Bluebird
+However Mocha would report that as a pass but then I got an error from Bluebird
 about a possibly unhandled AssertionError... like you see in the output below.
 
     token_vending_machine
@@ -74,7 +76,7 @@ about a possibly unhandled AssertionError... like you see in the output below.
     1 passing (8ms)
 
 That possible assertion error is a real thing because I thought my test was
-passing when it wasn't because mocha wasn't getting the information it needed.
+passing when it wasn't because Mocha wasn't getting the information it needed.
 Next I tried to catch the error and throw it. So I edited the test like so...
 
         describe("#getAccountInfoFromToken()", function () {
@@ -87,7 +89,7 @@ Next I tried to catch the error and throw it. So I edited the test like so...
             });
         });
 
-That lead to a timeout error, which actually made mocha show the test as
+That lead to a timeout error, which actually made Mocha show the test as
 failing. It also logged what the actual error was. That output is below
 
     token_vending_machine
@@ -111,7 +113,7 @@ failing. It also logged what the actual error was. That output is below
 
 Now I knew I needed to use a deepEqual to get the test to pass; however, I still
 didn't wanna have to wait 2 seconds per test for my test to get marked as
-a failure.  Enter Mocha's done function which tells mocha that the test is
+a failure.  Enter Mocha's done function which tells Mocha that the test is
 complete. It needs to be called after the assertion, and in the error handler
 in order to work properly.  Here is the updated test.
 
@@ -126,26 +128,26 @@ in order to work properly.  Here is the updated test.
         });
     });
 
-the clearer mocha output:
+the clearer Mocha output:
 
-  token_vending_machine
-    #getAccountInfoFromToken()
-      1) should return the right details when called with a token
+    token_vending_machine
+        #getAccountInfoFromToken()
+        1) should return the right details when called with a token
 
 
-  0 passing (6ms)
-  1 failing
+    0 passing (6ms)
+    1 failing
 
-  1) token_vending_machine #getAccountInfoFromToken() should return the right details when called with a token:
-     AssertionError: [{"account_id":1725389}] == [{"account_id":1725389}]
-      at /Users/jmyers/dev/token_vending_machine/test/tvm.js:35:24
-      at tryCatch1 (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/util.js:43:21)
-      at Promise$_callHandler [as _callHandler] (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/promise.js:627:13)
-      at Promise$_settlePromiseFromHandler [as _settlePromiseFromHandler] (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/promise.js:641:18)
-      at Promise$_settlePromiseAt [as _settlePromiseAt] (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/promise.js:804:14)
-      at Async$_consumeFunctionBuffer [as _consumeFunctionBuffer] (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/async.js:75:12)
-      at Async$consumeFunctionBuffer (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/async.js:38:14)
-      at process._tickDomainCallback (node.js:463:13)
+    1) token_vending_machine #getAccountInfoFromToken() should return the right details when called with a token:
+        AssertionError: [{"account_id":1725389}] == [{"account_id":1725389}]
+        at /Users/jmyers/dev/token_vending_machine/test/tvm.js:35:24
+        at tryCatch1 (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/util.js:43:21)
+        at Promise$_callHandler [as _callHandler] (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/promise.js:627:13)
+        at Promise$_settlePromiseFromHandler [as _settlePromiseFromHandler] (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/promise.js:641:18)
+        at Promise$_settlePromiseAt [as _settlePromiseAt] (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/promise.js:804:14)
+        at Async$_consumeFunctionBuffer [as _consumeFunctionBuffer] (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/async.js:75:12)
+        at Async$consumeFunctionBuffer (/Users/jmyers/dev/token_vending_machine/node_modules/bluebird/js/main/async.js:38:14)
+        at process._tickDomainCallback (node.js:463:13)
 
 Now to actually make the two arrays compare properly and getting a passing test.
 All that we need to do is to do a deepEqual instead of an equal.
@@ -162,7 +164,7 @@ All that we need to do is to do a deepEqual instead of an equal.
         });
     });
 
-And our happy mocha output:
+And our happy Mocha output:
 
     token_vending_machine
       #getAccountInfoFromToken()
