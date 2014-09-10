@@ -32,6 +32,7 @@ discussion system.
 * [redshift_sqlalchemy](https://github.com/binarydud/redshift_sqlalchemy) - Amazon Redshift SQLAlchemy Dialect
 * [py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A python library that
 allows a process to change its title
+* [hapi.js](https://github.com/hapijs/hapi/) - A node.js web framework
 
 ## Boxen Modules
 * [boxen/puppet-libreoffice](https://github.com/boxen/puppet-libreoffice)
@@ -42,6 +43,7 @@ allows a process to change its title
 * [boxen/puppet-wedge](https://github.com/boxen/puppet-wedge)
 
 ## Speaking Videos
+* [PyOhio 2014](http://pyvideo.org/video/2865/panel-discussion-so-you-wanna-run-a-tech-confere) - Panel Discussion: So You Wanna Run a Tech Conference.
 * [PyOhio 2014](http://pyvideo.org/video/2826/introduction-to-pandas) - Introduction to Pandas
 * [PyCon 2014](http://pyvideo.org/video/2654/introduction-to-sqlalchemy-core) - Introduction to SQLAlchemy Core
 * [PyOhio 2013](http://pyvideo.org/video/2291/introduction-to-sqlalchemy-and-alembic-migrations) - Introduction to SQLAlchemy and Alembic
