@@ -19,7 +19,8 @@ However, even during those years I often used my software development skills to
 solve problems and develop monitoring solutions. I love solving human problems,
 and I have a side project, [Sucratrend](https://www.stratasan.com), devoted to helping diabetics manage their
 I work every day at [Stratasan](http://www.stratasan.com) developing health care analytics, and
-I also organize the [PyTennessee Conference](http://www.pytennessee.org).
+I also organize the [PyTennessee Conference](http://www.pytennessee.org) and
+[Nodevember](http://www.nodevember.org).
 
 ## Open Source Commits
 * [ESLmap](https://github.com/mnhrc/mnhrc.github.io) - Powers the Metro Human Resources
