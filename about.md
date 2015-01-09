@@ -34,6 +34,7 @@ discussion system.
 * [py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A python library that
 allows a process to change its title
 * [hapi.js](https://github.com/hapijs/hapi/) - A node.js web framework
+* [Ubuntu MAAS](https://maas.ubuntu.com/) - Metal as a Service
 
 ## Boxen Modules
 * [boxen/puppet-libreoffice](https://github.com/boxen/puppet-libreoffice)
