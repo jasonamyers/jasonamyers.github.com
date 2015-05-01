@@ -29,6 +29,11 @@ used switches, and my personal favorites the Matias quiet clicks. The Kailh and
 Gateron are Cherry Mx clones. Topre switches are a completely different type of
 switch that uses electro-capacitive technology under an inverted rubber cup.
 
+** Now... Now I wanna build one from scratch **
+
+No prebuilt fancyness except a teensy microcontroller, keyswitches, wires,
+solder and C... plain old C.
+
 Details of Cherry Mx and Matias Switches
 ----------------------------------------
 
