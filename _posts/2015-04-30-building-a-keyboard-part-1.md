@@ -144,7 +144,7 @@ then it's about that C, and how we build the firmware for our device.
 I'll leave you with some of my previous keyboards during my misspent designer
 phase.
 
-![HHKB](http://imgur.com/0O8qEzA)
-![Eve Set](http://imgur.com/ItSUGTC)
-![Dolch Set](http://imgur.com/hq0YQJ2)
-![Dual Color](http://imgur.com/gP7AJom)
+![HHKB](http://imgur.com/0O8qEzA.jpg)
+![Eve Set](http://imgur.com/ItSUGTC.jpg)
+![Dolch Set](http://imgur.com/hq0YQJ2.jpg)
+![Dual Color](http://imgur.com/gP7AJom.jpg)
