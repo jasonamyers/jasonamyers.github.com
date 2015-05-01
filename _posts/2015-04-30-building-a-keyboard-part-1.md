@@ -29,7 +29,7 @@ used switches, and my personal favorites the Matias quiet clicks. The Kailh and
 Gateron are Cherry Mx clones. Topre switches are a completely different type of
 switch that uses electro-capacitive technology under an inverted rubber cup.
 
-** Now... Now I wanna build one from scratch **
+**Now... Now I wanna build a keyboard from scratch**
 
 No prebuilt fancyness except a teensy microcontroller, keyswitches, wires,
 solder and C... plain old C.
@@ -46,7 +46,7 @@ weight. Keyswitches have two important points in the keystroke, the actuation
 point and the bottom out point. The actuation point is when the keystroke is
 registered, and bottoming out is when it hits the bottom of the switch. On a
 rubber dome keyboard these are often one in the same. So the keystroke is
-register when the the PCB underneath the rubber dome is touched. This hurts my
+registered when the the PCB underneath the rubber dome is touched. This hurts my
 hands just thinking back to those days. If you take a look at an animation of
 the Cherry Mx Clear switch. (my personal favorite)
 
@@ -60,9 +60,9 @@ feeling, some switches also make an audible clicking sound; however, some people
 prefer the smoothness of a linear switch. With a linear switch there is still
 quite a bit of separation between the actuation point and bottoming out, and you
 can learn to touch type on them as well. The weight of a switch refers to how
-hard you have to press to reach the actuation and them bottom out point.
+hard you have to press to reach the actuation and then bottom out point.
 Typically a light switch is around 45g of force to actuate with mediums around
-55g and heavy switches anything higher than 60g. Bottoming our force is often
+55g and heavy switches anything higher than 60g. Bottoming out force is often
 either the same or slightly lower than the actuation force.
 
 Here is a simple chart with the most common types of Cherry Mx Switches:
@@ -79,9 +79,11 @@ Here is a simple chart with the most common types of Cherry Mx Switches:
 The Matias Quiet Click switch is roughly the same specs as a Cherry MX Clear but
 with a higher actuation point and a stronger bump. It also gives in completely
 after actuation with just a 35g bottoming out force compared to the 45g of the
-Clear.
+Clear. This makes it easier to feel the switch give and start to pull the finger
+back up. Due to some old hand injury, it's this bottoming out that causes pain
+in my fingers after a few hours of typing on a rubber dome or laptop keyboard.
 
-The switches snap into metal plates or mount directly only PCBs depending on the
+The switches snap into metal plates or mount directly onto PCBs depending on the
 desired feel and type of keyboard. Since we're building from scratch I won't
 have a premade fancy PCB I'm going to be doing some old fashion hand wiring. The
 plate I'm using is from [Ortholinear Keyboards](http://www.ortholinearkeyboards.com)
@@ -94,12 +96,12 @@ one waiting to go in.
 You might notice the the stems of these switch are a plus sign and kind of a
 translucent white colors. The plus sign is the standard for all Cherry Mx
 Switches, and the color tells me this is a Clear switch. (trust me on that one)
-On the switch to the left, it's two units which, so we have the keyswitch
+On the switch to the left, it's two units wide, so we have the keyswitch
 surrounded by a stabilizer. A stabilizer is used to make sure that a key presses
 down evenly no matter where on the key you press it. We've all had that weird
-space bard that never kinda pushed down awkwardly. (I'm looking at you Microsoft
-Ergo 4000!) There are several different types of stabilizers; however, these are
-a plate mount Cherry Mx stabilizer.
+space bar that kinda pushed down awkwardly. (I'm looking at you Microsoft
+Ergo 4000!) There are several different types of stabilizers; however, the ones
+pictures are a plate mounted Cherry Mx stabilizer.
 
 ![Disassembled Cherry Stabilizer]({{ site.url }}/assets/example-2.png)
 
@@ -115,7 +117,7 @@ Keycaps
 
 Keycaps are a subject one could get lost in but from a basic stand point they
 are typically made from ABS or PBT plastic. PBT keycaps normally have a nicer
-texture, and are thicker and better made the ABS keycaps. Nonetheless, the
+texture, and are thicker and better made than ABS keycaps. Nonetheless, the
 simplicity and variety with which ABS keycaps are made make them extremely
 popular in the show off crowd. I want a board that feels good, but some extreme
 keyboard modders just wanna look good. There are entire parts of the internet
@@ -138,3 +140,11 @@ here is our board after putting on the keycaps.
 In the next part we'll talk about how keyboards work and how we're going to wire
 this beast up to our microcontroller. Part 3 will be all keyboard layouts and
 then it's about that C, and how we build the firmware for our device.
+
+I'll leave you with some of my previous keyboards during my misspent designer
+phase.
+
+![HHKB](http://imgur.com/0O8qEzA)
+![Eve Set](http://imgur.com/ItSUGTC)
+![Dolch Set](http://imgur.com/hq0YQJ2)
+![Dual Color](http://imgur.com/gP7AJom)
