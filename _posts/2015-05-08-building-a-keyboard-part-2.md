@@ -86,6 +86,7 @@ keep that in mind when cabling. I again ran my cables under the row and column c
 ![Example 7]({{ site.url }}/assets/grid.jpg)
 
 In that picture, there is a bundle of four cables connected to the rows.  I connect those to the teensy first like:
+
 | Teensy PIN | Matrix |
 | ---------- |:------:|
 |F0 | row 0|
@@ -98,6 +99,7 @@ Any pin works except for Vcc, GND, RST. Just make note of what went where.
 ![Example 8]({{ site.url }}/assets/teensy-rows.jpg)
 
 Now for the columns. I started on the other side of the teensy as follows:
+
 | Teensy PIN | Matrix |
 | ---------- |:------:|
 | D5 | col 0 |
