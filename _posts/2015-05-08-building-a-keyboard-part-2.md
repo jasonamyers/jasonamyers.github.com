@@ -94,7 +94,7 @@ In that picture, there is a bundle of four cables connected to the rows.  I conn
 |F4 | row 2| 
 |F5 | row 3| 
 
-Any pin works except for Vcc, GND, RST. Just make note of what went where.
+Any pin works except for Vcc, GND, RST. Just make note of what went where. I used the upper right corner as row 0, column 0.
 
 ![Example 8]({{ site.url }}/assets/teensy-rows.jpg)
 
