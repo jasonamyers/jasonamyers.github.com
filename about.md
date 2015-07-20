@@ -10,20 +10,20 @@ share: true
 ---
 
 ## Software Developer
-I’m looking for a software engineer position where I can continue developing my
-skills and contributing to the community. I really find open source and
+I really find open source and
 community work fulfilling as it has the potential to move everyone forward.
 I switched to software engineering full time a few years ago after spending
 several years building datacenters and cloud architectures for large clients.
 However, even during those years I often used my software development skills to
 solve problems and develop monitoring solutions. I love solving human problems,
 and I have a side project, [Sucratrend](https://www.stratasan.com), devoted to helping diabetics manage their
-I work every day at [Stratasan](http://www.stratasan.com) developing health care analytics, and
+I work every day at [Cisco](http://www.cisco.com) on OpenStack, and
 I also organize the [PyTennessee Conference](http://www.pytennessee.org) and
 [Nodevember](http://www.nodevember.org). I recently published [Essential
 SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do).
 
 ## Books
+
 * [Essential SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do)
 
 ## Open Source Commits
@@ -42,7 +42,8 @@ allows a process to change its title
 * [hapi.js](https://github.com/hapijs/hapi/) - A node.js web framework
 * [Ubuntu MAAS](https://maas.ubuntu.com/) - Metal as a Service
 
-## Boxen Modules
+## Boxen Modules (Retired)
+
 * [boxen/puppet-libreoffice](https://github.com/boxen/puppet-libreoffice)
 * [boxen/puppet-evernote](https://github.com/boxen/puppet-evernote)
 * [boxen/puppet-spectacle](https://github.com/boxen/puppet-spectacle)
@@ -51,6 +52,7 @@ allows a process to change its title
 * [boxen/puppet-wedge](https://github.com/boxen/puppet-wedge)
 
 ## Speaking Videos
+
 * [PyOhio 2014](http://pyvideo.org/video/2865/panel-discussion-so-you-wanna-run-a-tech-confere) - Panel Discussion: So You Wanna Run a Tech Conference.
 * [PyOhio 2014](http://pyvideo.org/video/2826/introduction-to-pandas) - Introduction to Pandas
 * [PyCon 2014](http://pyvideo.org/video/2654/introduction-to-sqlalchemy-core) - Introduction to SQLAlchemy Core
@@ -60,7 +62,7 @@ allows a process to change its title
 ## Slides and or Code From Presentations
 
 * [PyNash - May 2015](https://github.com/jasonamyers/pynash-click) - Building CLIs that Click [Viewable](http://www.slideshare.net/jamdatadude/building-clis-that-click)
-* [Coderfaire 2014](https://github.com/jasonamyers/coderfaire-net-neutrality) - Net Neutrality [Viewable]
+* [Coderfaire 2014](https://github.com/jasonamyers/coderfaire-net-neutrality) - Net Neutrality
 * [Systems Programming Day 2014 (Nashville)](http://www.slideshare.net/jamdatadude/spanning-tree-38011328)
 * [PyOhio 2014](https://github.com/jasonamyers/pyohio-2014-pandas) - Introduction to Pandas [Viewable](http://www.slideshare.net/jamdatadude/introduction-to-pandas-37337080)
 * [PyCon 2014](https://github.com/jasonamyers/pycon2014) - Introduction to SQLAlchemy Core [Viewable](http://www.slideshare.net/jamdatadude/sql-alchemy-core-an-introduction)
