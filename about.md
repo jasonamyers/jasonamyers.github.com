@@ -27,6 +27,8 @@ SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do).
 * [Essential SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do)
 
 ## Open Source Commits
+
+* [OpenStack - Ceilometer](https://github.com/openstack/ceilometer) - Metering for OpenStack Services
 * [ESLmap](https://github.com/mnhrc/mnhrc.github.io) - Powers the Metro Human Resources
 Commission's [http://www.eslmap.com](http://www.eslmap.com).
 * [SacredPy](https://github.com/reibwo/SacredPy) - Sacred text translation/meaning
