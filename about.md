@@ -20,7 +20,11 @@ solve problems and develop monitoring solutions. I love solving human problems,
 and I have a side project, [Sucratrend](https://www.stratasan.com), devoted to helping diabetics manage their
 I work every day at [Stratasan](http://www.stratasan.com) developing health care analytics, and
 I also organize the [PyTennessee Conference](http://www.pytennessee.org) and
-[Nodevember](http://www.nodevember.org).
+[Nodevember](http://www.nodevember.org). I recently published [Essential
+SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do).
+
+## Books
+* [Essential SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do)
 
 ## Open Source Commits
 * [ESLmap](https://github.com/mnhrc/mnhrc.github.io) - Powers the Metro Human Resources
@@ -53,6 +57,8 @@ allows a process to change its title
 
 ## Slides and or Code From Presentations
 
+* [PyNash - May 2015](https://github.com/jasonamyers/pynash-click) - Building CLIs that Click [Viewable](http://www.slideshare.net/jamdatadude/building-clis-that-click)
+* [Coderfaire 2014](https://github.com/jasonamyers/coderfaire-net-neutrality) - Net Neutrality [Viewable]
 * [Systems Programming Day 2014 (Nashville)](http://www.slideshare.net/jamdatadude/spanning-tree-38011328)
 * [PyOhio 2014](https://github.com/jasonamyers/pyohio-2014-pandas) - Introduction to Pandas [Viewable](http://www.slideshare.net/jamdatadude/introduction-to-pandas-37337080)
 * [PyCon 2014](https://github.com/jasonamyers/pycon2014) - Introduction to SQLAlchemy Core [Viewable](http://www.slideshare.net/jamdatadude/sql-alchemy-core-an-introduction)
