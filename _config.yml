@@ -2,7 +2,7 @@ title:            from n00b import python
 description:      My blog where I can share random things
 disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
-url:              http://www.jasonamyers.com
+url:              http://jasonamyers.github.io
 
 # Owner/author information
 owner:
