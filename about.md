@@ -59,8 +59,14 @@ allows a process to change its title
 * [PyOhio 2013](http://pyvideo.org/video/2291/introduction-to-sqlalchemy-and-alembic-migrations) - Introduction to SQLAlchemy and Alembic
 * [MemPy 2013](https://www.youtube.com/watch?v=jvBfm0q9_qk) - Selenium UI
 
+## Podcast Appearances
+
+* [NodeUp](http://nodeup.com/) - Episode 78: A Nodevember Show [Listen](https://soundcloud.com/nodeup/78n)
+* [Voices of the Elephant](https://voicesoftheelephpant.com/) - It's the booze talking [Listen](https://voicesoftheelephpant.com/2012/10/16/its-the-booze-talking-4-the-php-community-part-1/)
+
 ## Slides and or Code From Presentations
 
+* [PyNash - Jan 2015](https://github.com/jasonamyers/python-static-analysis) - Python Static Analysis [Viewable](http://www.slideshare.net/jamdatadude/python-static-analysis-tools)
 * [PyGotham 2015 - August 2015](https://github.com/jasonamyers/pygotham-intro-sqlachemy-orm) - Intro to SQLAlchemy ORM [Viewable](http://www.slideshare.net/jamdatadude/introduction-to-sqlalchemy-orm) [Sample Code](https://github.com/jasonamyers/pygotham-intro-sqlalchemy-orm-code/blob/master/PyGotham%20ORM%20Intro.ipynb)
 * [PyOhio 2015 - August 2015](https://github.com/jasonamyers/filling-the-flask) - Filling the Flask [Viewable](http://www.slideshare.net/jamdatadude/filling-the-flask) [Sample Code](https://github.com/jasonamyers/flaskfilled)
 * [PyNash - May 2015](https://github.com/jasonamyers/pynash-click) - Building CLIs that Click [Viewable](http://www.slideshare.net/jamdatadude/building-clis-that-click)
