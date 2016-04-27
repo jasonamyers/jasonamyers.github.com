@@ -25,12 +25,12 @@ You'll need to start by updating your package list contents by:
 
 Next, we will install the follow packages in Emacs by M-x package-install <RET> <PackageName><RET>:
 
-*   `company - An autocompletion framework - [Website](http://company-mode.github.io/)`
-*   `company-racer - A backend that enables company autocompletion with racer - [Website](https://github.com/emacs-pe/company-racer)`
-*   `racer - A rust autocompletion engine - [Website](https://github.com/racer-rust/emacs-racer)`
-*   `flycheck - on the fly syntax checking - [Website](https://github.com/flycheck/flycheck)`
-*   `flycheck-rust - A rust backend for flycheck - [Website](https://github.com/flycheck/flycheck-rust)`
-*   `rust-mode - An Emacs mode for editing rust files - [Website](https://github.com/rust-lang/rust-mode)`
+*   `company` - An autocompletion framework - [Website](http://company-mode.github.io/)
+*   `company-racer` - A backend that enables company autocompletion with racer - [Website](https://github.com/emacs-pe/company-racer)
+*   `racer` - A rust autocompletion engine - [Website](https://github.com/racer-rust/emacs-racer)
+*   `flycheck` - on the fly syntax checking - [Website](https://github.com/flycheck/flycheck)
+*   `flycheck-rust` - A rust backend for flycheck - [Website](https://github.com/flycheck/flycheck-rust)
+*   `rust-mode` - An Emacs mode for editing rust files - [Website](https://github.com/rust-lang/rust-mode)
 
 ### Configuring Emacs
 
