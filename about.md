@@ -10,17 +10,9 @@ share: true
 ---
 
 ## Software Developer
-I really find open source and
-community work fulfilling as it has the potential to move everyone forward.
-I switched to software engineering full time a few years ago after spending
-several years building datacenters and cloud architectures for large clients.
-However, even during those years I often used my software development skills to
-solve problems and develop monitoring solutions. I love solving human problems,
-and I have a side project, [Sucratrend](https://www.stratasan.com), devoted to helping diabetics manage their
-I work every day at [Cisco](http://www.cisco.com) on OpenStack, and
-I also organize the [PyTennessee Conference](http://www.pytennessee.org) and
-[Nodevember](http://www.nodevember.org). I recently published [Essential
-SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do).
+A natural-born problem solver, Jason Myers relishes opportunities that allow him to use his technical expertise to improve the human condition in any way possible. He has made a successful career in an industry he loves as a speaker, developer, technical writer and developer community organizer. Jason currently lends his talents as a Software Engineer working on Juicebox (a data analytics platform) at [Juice Analytics](http://www.juiceanalytics.com) and recently published the technical manual [Essential SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do).
+
+Prior to his decision to focus on Software Engineering, Jason spent 15 years as a systems architect building data centers and cloud architectures for several of the largest tech companies, hospitals, and telecomm providers. Today, he finds open source platform work extremely fulfilling because of its collaborative nature and power to move people forward.  When he’s not using his software prowess for good, Jason can be found organizing and speaking at major industry events, including the [PyTennessee Conference](http://www.pytennessee.org) and [Nodevember](http://www.nodevember.org).  And while he is extremely passionate about all things technology, Jason admits he has a soft spot for gourmet cookies and his three beloved Llasa Apso dogs.
 
 ## Books
 
