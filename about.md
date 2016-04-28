@@ -20,7 +20,9 @@ Prior to his decision to focus on Software Engineering, Jason spent 15 years as 
 
 ## Open Source Commits
 
-* [OpenStack - Ceilometer](https://github.com/openstack/ceilometer) - Metering for OpenStack Services
+* [Flake8](https://gitlab.com/pycqa/flake8) - Python style and code quality checks
+* [Gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing 
+* [OpenStack - Ceilometer](https://github.com/openstack/ceilometer) - Metering for OpenStack Services [Article about efforts](http://redhatstackblog.redhat.com/2016/01/18/ceilometer-polling-performance-improvement/)
 * [ESLmap](https://github.com/mnhrc/mnhrc.github.io) - Powers the Metro Human Resources
 Commission's [http://www.eslmap.com](http://www.eslmap.com).
 * [SacredPy](https://github.com/reibwo/SacredPy) - Sacred text translation/meaning
@@ -45,6 +47,8 @@ allows a process to change its title
 
 ## Speaking Videos
 
+* [PyGotham](http://pyvideo.org/video/3802/sqlalchemy-orm-for-beginners) - SQLAlchemy ORM for Beginners
+* [PyOhio 2015](http://pyvideo.org/video/3700/filling-the-flask) - Filling the Flask
 * [PyOhio 2014](http://pyvideo.org/video/2865/panel-discussion-so-you-wanna-run-a-tech-confere) - Panel Discussion: So You Wanna Run a Tech Conference.
 * [PyOhio 2014](http://pyvideo.org/video/2826/introduction-to-pandas) - Introduction to Pandas
 * [PyCon 2014](http://pyvideo.org/video/2654/introduction-to-sqlalchemy-core) - Introduction to SQLAlchemy Core
@@ -53,6 +57,7 @@ allows a process to change its title
 
 ## Podcast Appearances
 
+* [/dev/hell](http://devhell.info/post/2016-02-26/hermits-and-horses/) - Episode 72: Hermits and Horses
 * [NodeUp](http://nodeup.com/) - Episode 78: A Nodevember Show [Listen](https://soundcloud.com/nodeup/78n)
 * [Voices of the Elephant](https://voicesoftheelephpant.com/) - It's the booze talking [Listen](https://voicesoftheelephpant.com/2012/10/16/its-the-booze-talking-4-the-php-community-part-1/)
 
