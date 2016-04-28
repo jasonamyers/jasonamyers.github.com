@@ -29,8 +29,17 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Essential SQLAlchemy 2nd Edition
+    url: http://shop.oreilly.com/product/0636920035800.do
+    external: true
   - title: PyTennessee
-    url: http://www.pytennessee.com
+    url: http://www.pytennessee.org
+    external: true
+  - title: PyNash
+    url: http://www.pynash.org
+    external: true
+  - title: Nodevember
+    url: http://www.nodevember.org
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
