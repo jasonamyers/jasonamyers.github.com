@@ -74,6 +74,7 @@ Now we can look at the workers, I use two methods in the QueryPool calls. The fi
     def __query(self, query):
         conn = engine.connect()
         results = conn.execute(query).fetchall()
+	return results
     {% endhighlight %}
 
 For the workers method within the QueryPool class, we start a loop that is going to run until their are not tasks left in the tasks (input) queue. It will get one task, call the `__query()` method with the details from the task, handle any exceptions, add the results to the output queue, and then mark the task as done. When adding the results to the output queue, we use the `put_nowait()` method of gevent queues to add the results without blocking. This allows the event loop to look for the next thing to work on.
