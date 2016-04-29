@@ -133,3 +133,9 @@ I setup 6 queries of varying complexity and execution time. I then executed thos
 * QueryPool - 5 workers: 8 seconds
 * QueryPool - 3 workers: 9 seconds
 * QueryPool - 2 workers: 15 seconds
+
+
+### History
+* 2016-04-28 Added missing return thanks to Mike B.
+* 2016-04-29 Updated information about `.put()` method based on feedback from David S.
+
