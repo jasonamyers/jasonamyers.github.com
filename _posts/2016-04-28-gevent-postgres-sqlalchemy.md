@@ -30,7 +30,7 @@ So the first thing we need to do to prepare to leverage gevent is make sure psyc
 
     def gevent_wait_callback(conn, timeout=None):
         """A wait callback useful to allow gevent to work with Psycopg."""
-        while 1:
+        while True:
             state = conn.poll()
             if state == extensions.POLL_OK:
                 break
@@ -138,4 +138,4 @@ I setup 6 queries of varying complexity and execution time. I then executed thos
 ### History
 * 2016-04-28 Added missing return thanks to Mike B.
 * 2016-04-29 Updated information about `.put()` method based on feedback from David S.
-
+* 2016-04-30 Updated while 1 to while True based on feedback from /u/Asdayasman
