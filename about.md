@@ -20,8 +20,9 @@ Prior to his decision to focus on Software Engineering, Jason spent 15 years as 
 
 ## Open Source Commits
 
+* [Terraform](https://github.com/hashicorp/terraform) - Infrastructure management
 * [Flake8](https://gitlab.com/pycqa/flake8) - Python style and code quality checks
-* [Gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing 
+* [Gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing
 * [OpenStack - Ceilometer](https://github.com/openstack/ceilometer) - Metering for OpenStack Services [Article about efforts](http://redhatstackblog.redhat.com/2016/01/18/ceilometer-polling-performance-improvement/)
 * [ESLmap](https://github.com/mnhrc/mnhrc.github.io) - Powers the Metro Human Resources
 Commission's [http://www.eslmap.com](http://www.eslmap.com).
@@ -47,6 +48,7 @@ allows a process to change its title
 
 ## Speaking Videos
 
+* [PyOhio 2016](https://www.youtube.com/watch?v=lJux36gTlxY) - For those about to Mock I salute you!
 * [PyGotham](http://pyvideo.org/video/3802/sqlalchemy-orm-for-beginners) - SQLAlchemy ORM for Beginners
 * [PyOhio 2015](http://pyvideo.org/video/3700/filling-the-flask) - Filling the Flask
 * [PyOhio 2014](http://pyvideo.org/video/2865/panel-discussion-so-you-wanna-run-a-tech-confere) - Panel Discussion: So You Wanna Run a Tech Conference.
@@ -63,6 +65,7 @@ allows a process to change its title
 
 ## Slides and or Code From Presentations
 
+* [PyOhio - July 2016](https://github.com/jasonamyers/pyohio2016-for-those-about-to-mock) - For those about to Mock I salute you!
 * [PyNash - Jan 2015](https://github.com/jasonamyers/python-static-analysis) - Python Static Analysis [Viewable](http://www.slideshare.net/jamdatadude/python-static-analysis-tools)
 * [PyGotham 2015 - August 2015](https://github.com/jasonamyers/pygotham-intro-sqlachemy-orm) - Intro to SQLAlchemy ORM [Viewable](http://www.slideshare.net/jamdatadude/introduction-to-sqlalchemy-orm) [Sample Code](https://github.com/jasonamyers/pygotham-intro-sqlalchemy-orm-code/blob/master/PyGotham%20ORM%20Intro.ipynb)
 * [PyOhio 2015 - August 2015](https://github.com/jasonamyers/filling-the-flask) - Filling the Flask [Viewable](http://www.slideshare.net/jamdatadude/filling-the-flask) [Sample Code](https://github.com/jasonamyers/flaskfilled)
