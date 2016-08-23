@@ -20,6 +20,7 @@ Prior to his decision to focus on Software Engineering, Jason spent 15 years as 
 
 ## Open Source Commits
 
+* [Virtualenvwrapper](https://bitbucket.org/virtualenvwrapper/virtualenvwrapper) - Managing Python virtualenvs made easier
 * [Chalice](https://github.com/awslabs/chalice) - Python Serverless Microframework for AWS
 * [Terraform](https://github.com/hashicorp/terraform) - Infrastructure management
 * [Flake8](https://gitlab.com/pycqa/flake8) - Python style and code quality checks
