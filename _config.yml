@@ -32,6 +32,9 @@ links:
   - title: Essential SQLAlchemy 2nd Edition
     url: http://shop.oreilly.com/product/0636920035800.do
     external: true
+  - title: DataCamp
+    url: http://www.datacamp.com
+    external: true
   - title: PyTennessee
     url: http://www.pytennessee.org
     external: true

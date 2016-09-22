@@ -18,6 +18,10 @@ Prior to his decision to focus on Software Engineering, Jason spent 15 years as 
 
 * [Essential SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do)
 
+## Video Series
+
+* [DataCamp - Introduction to SQLAlchemy](http://www.datacamp.com) Coming soon
+
 ## Open Source Commits
 
 * [Virtualenvwrapper](https://bitbucket.org/virtualenvwrapper/virtualenvwrapper) - Managing Python virtualenvs made easier
