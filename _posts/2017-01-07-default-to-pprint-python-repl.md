@@ -45,8 +45,7 @@ are using, and it will always make your python repl output be pretty.
 First let's look at the normal output:
 
     {% highlight shell %}
-    >>> dessert = {'cookies': {'chocolate chip': 1, 'oatmeal raisin': 12,
-    >>> 'peanut butter': 3},
+    >>> dessert = {'cookies': {'chocolate chip': 1, 'oatmeal raisin': 12, 'peanut butter': 3},
     ...     'cake': 'OMG NO!',
     ...     'pie': {'apple': 1, 'peach': 2, 'fudge': 0}}
     >>> dessert
@@ -56,8 +55,7 @@ First let's look at the normal output:
 Now let's see it with the pretty print in place:
 
     {% highlight shell %}
-    >>> dessert = {'cookies': {'chocolate chip': 1, 'oatmeal raisin': 12,
-    >>> 'peanut butter': 3},
+    >>> dessert = {'cookies': {'chocolate chip': 1, 'oatmeal raisin': 12, 'peanut butter': 3},
     ...     'cake': 'OMG NO!',
     ...     'pie': {'apple': 1, 'peach': 2, 'fudge': 0}}
     >>> dessert
