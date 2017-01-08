@@ -1,12 +1,7 @@
 ---
 layout: page
-permalink: /about/
 title: About
-tags: [personal]
-image:
-  feature: avatar.jpg
-  credit: Denise Myers
-share: true
+permalink: /about/
 ---
 
 ## Software Developer

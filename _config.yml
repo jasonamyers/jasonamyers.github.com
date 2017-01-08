@@ -1,75 +1,59 @@
-title:            from n00b import python
-description:      My blog where I can share random things
-disqus_shortname:
-#Comment out url when working locally to resolve base urls correctly
-url:              http://jasonamyers.github.io
 
-# Owner/author information
-owner:
-  name:           Jason Myers
-  avatar:         avatar.jpg
-  bio:            "A python n00b, and organizer of PyTN"
-  email:          jason@mailthemyers.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        jasonamyers
-  facebook:       jamdatadude
-  github:         jasonamyers
-  linkedin:       jasonamyers
-  instagram:      jamjasonamyers
-  flickr:         binaryinsanity
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+# SEO settings
+title: "The N00b Developer"
+title2: " - A LinuxHermit's Journey " # default: ""
+description: "My blog where I can share random things"
+keywords: ""
+url: http://jasonamyers.github.io/# site url
+#baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
+baseurl: null # apply null if repo name is something like username.github.io
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-62816890-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+google_analytics: UA-XXXXX-XX
+repo: http://github.com/jasonamyers/jasonamyers.github.com
+disqus_shortname: ""
+twitter_username: "jasonamyers"
+comments: true
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Essential SQLAlchemy 2nd Edition
-    url: http://shop.oreilly.com/product/0636920035800.do
-    external: true
-  - title: DataCamp
-    url: http://www.datacamp.com
-    external: true
-  - title: PyTennessee
-    url: http://www.pytennessee.org
-    external: true
-  - title: PyNash
-    url: http://www.pynash.org
-    external: true
-  - title: Nodevember
-    url: http://www.nodevember.org
-    external: true
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Chicago
-future:      true
-highlighter: rouge
-markdown:    kramdown
+source: ./
+destination: ./_site
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
 
-# Amount of post to show on home page
-paginate: 5
+# Author settings
+author:
+  name     : "Jason A Myers"
+  job      : "Software Engineer"
+  bio      : "from n00b import python"
+  thumb    : /images/author.jpg
+  email    : jason@mailthemyers.com
+  url      : http://jasonamyers.github.io
+  github   : http://github.com/jasonamyers
+  twitter  : http://twitter.com/jasonamyers
+  linkedin : https://www.linkedin.com/in/jasonamyers
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: true
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@jasonamyers"
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
