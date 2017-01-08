@@ -14,7 +14,7 @@ and wanted to put together some instructions for the future.
 
 ## PYTHONSTARTUP
 
-The PYTHONSTARTUP referenced here is an environment file that points to a python
+The PYTHONSTARTUP referenced here is an environment variable that points to a python
 file that we can place a series of command into that will be evaluated when we
 launch a Python REPL. I have the following code in a file called
 `.python-startup.py`.
