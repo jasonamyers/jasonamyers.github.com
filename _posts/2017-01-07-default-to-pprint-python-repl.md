@@ -38,7 +38,7 @@ file as shown here.
     export PYTHONSTARTUP=~/.python-startup.py
 
 You can also add this to your `.bashrc` or `.zshrc` depending on which shell you
-are using.
+are using, and it will always make your python repl output be pretty.
 
 ## So what is the difference?
 
