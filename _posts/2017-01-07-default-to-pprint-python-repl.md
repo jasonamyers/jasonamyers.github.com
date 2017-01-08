@@ -9,7 +9,7 @@ share: true
 
 
 Recently, there was a [tweet by Ned Batchelder](https://twitter.com/nedbat/status/817827164443840512 )
-that illustrated how to make python repl output prettier. I went to implement it,
+that illustrated how to make Python REPL output prettier. I went to implement it,
 and wanted to put together some instructions for the future.
 
 ## PYTHONSTARTUP
