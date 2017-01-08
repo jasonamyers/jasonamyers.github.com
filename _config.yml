@@ -48,6 +48,7 @@ twitter_site: "@jasonamyers"
 gems:
   - bourbon
   - jekyll-paginate
+  - jekyll-twitter-plugin
 
 # navbar pages
 navbar:
