@@ -19,7 +19,7 @@ hermit would do alone. You made this final year possible, and I'm grateful for
 your friendship and kind soul.
 
 To Fernando, thank you for always lending a hand and stepping in to doing
-anything we need however, simple it is. You're support has meant a lot to me.
+anything we need however, simple it is. Your support has meant a lot to me.
 
 To Eric, thank you for your constant cheerleading and always stepping up to be
 the first sponsor year after year. It kept me going when I needed it.
