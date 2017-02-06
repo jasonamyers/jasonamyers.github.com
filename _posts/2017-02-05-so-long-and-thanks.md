@@ -72,6 +72,8 @@ collaborator and confidant. I know you'll take us to a whole new level, and set
 a new standard for our event. I can't wait to give you the standing ovation
 you'll deserve next year! Thank you for leading us forward.
 
+It has been an honor to serve!
+
 So Long Till Next Year,
 
 Jason
