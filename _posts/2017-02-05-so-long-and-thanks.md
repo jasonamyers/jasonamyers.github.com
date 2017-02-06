@@ -35,8 +35,8 @@ examples for us to follow and answering our silly questions. I never got PyTN to
 the level of PyOhio, but I know it's better because we tried.
 
 To every PyTN Keynoter, thanks for making my dreams come true of seeing my heros
-present. You all have truly been wondering and delivered the messages we all
-needed to here. It's so rare to have people you look up to turn out to be such
+present. You all have truly been wonderful and delivered the messages we all
+needed to hear. It's so rare to have people you look up to turn out to be such
 wonderful humans.
 
 To every PyTN Speaker, thank you for being the reason people come to the
