@@ -27,8 +27,8 @@ JASON MYERS IS IN DA HOOOOUUUUSSSSSSSSSSEEEEE!
 
 To Jacques and Cal, thank you for building the Nashville Community and showing
 me how to put together a conference in the Nashville way. For keeping me going
-when the tough moments came, and for being supportive even when you didn't agree
-with my actions. I miss you and your impact on our community everyday.
+when the tough moments came, and for support, guidance and advice for every
+tough moment. I miss you both and your impact on our community everyday.
 
 To the PyOhio Organizers (Brian, Catherine, and crew), thank you for setting fantastic
 examples for us to follow and answering our silly questions. I never got PyTN to
