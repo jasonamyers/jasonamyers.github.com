@@ -15,7 +15,7 @@ Prior to his decision to focus on Software Engineering, Jason spent 15 years as 
 
 ## Video Series
 
-* [DataCamp - Introduction to SQLAlchemy](http://www.datacamp.com) Coming soon
+* [DataCamp - Introduction to SQLAlchemy](http://www.datacamp.com)
 
 ## Open Source Commits
 
@@ -49,6 +49,7 @@ allows a process to change its title
 
 ## Speaking Videos
 
+* [PyCon 2017](https://www.youtube.com/watch?v=JND9F_9_i1A) - Leveraging Serverless Architecture for Powerful Data Pipelines
 * [PyOhio 2016](https://www.youtube.com/watch?v=lJux36gTlxY) - For those about to Mock I salute you!
 * [PyGotham](http://pyvideo.org/video/3802/sqlalchemy-orm-for-beginners) - SQLAlchemy ORM for Beginners
 * [PyOhio 2015](http://pyvideo.org/video/3700/filling-the-flask) - Filling the Flask
@@ -66,6 +67,7 @@ allows a process to change its title
 
 ## Slides and or Code From Presentations
 
+* [PyCon - May 2017](https://github.com/jasonamyers/pycon-2017-serverless-pipelines) - Leveraging Serverless Architecture for Powerful Data Pipelines
 * [PyOhio - July 2016](https://github.com/jasonamyers/pyohio2016-for-those-about-to-mock) - For those about to Mock I salute you!
 * [PyNash - Jan 2015](https://github.com/jasonamyers/python-static-analysis) - Python Static Analysis [Viewable](http://www.slideshare.net/jamdatadude/python-static-analysis-tools)
 * [PyGotham 2015 - August 2015](https://github.com/jasonamyers/pygotham-intro-sqlachemy-orm) - Intro to SQLAlchemy ORM [Viewable](http://www.slideshare.net/jamdatadude/introduction-to-sqlalchemy-orm) [Sample Code](https://github.com/jasonamyers/pygotham-intro-sqlalchemy-orm-code/blob/master/PyGotham%20ORM%20Intro.ipynb)
