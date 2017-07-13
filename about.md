@@ -16,6 +16,7 @@ Prior to his decision to focus on Software Engineering, Jason spent 15 years as 
 ## Video Series
 
 * [DataCamp - Introduction to SQLAlchemy](http://www.datacamp.com)
+* [DataCamp - Python Data Types for Data Science](http://www.datacamp.com)
 
 ## Open Source Commits
 
