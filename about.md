@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Software Developer
-A natural-born problem solver, Jason Myers relishes opportunities that allow him to use his technical expertise to improve the human condition in any way possible. He has made a successful career in an industry he loves as a speaker, developer, technical writer and developer community organizer. Jason currently lends his talents as a Software Engineer working on Juicebox (a data analytics platform) at [Juice Analytics](http://www.juiceanalytics.com) and recently published the technical manual [Essential SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do).
+A natural-born problem solver, Jason Myers relishes opportunities that allow him to use his technical expertise to improve the human condition in any way possible. He has made a successful career in an industry he loves as a speaker, developer, technical writer and developer community organizer. Jason currently lends his talents as a Software Engineer working on Juicebox (a data analytics platform) at [Juice Analytics](http://www.juiceanalytics.com) and published the technical manual [Essential SQLAlchemy 2nd Ed](http://shop.oreilly.com/product/0636920035800.do) along with several [DataCamp Courses](https://www.datacamp.com/instructors/jasonamyers).
 
 Prior to his decision to focus on Software Engineering, Jason spent 15 years as a systems architect building data centers and cloud architectures for several of the largest tech companies, hospitals, and telecomm providers. Today, he finds open source platform work extremely fulfilling because of its collaborative nature and power to move people forward.  When he’s not using his software prowess for good, Jason can be found organizing and speaking at major industry events, including the [PyTennessee Conference](http://www.pytennessee.org) and [Nodevember](http://www.nodevember.org).  And while he is extremely passionate about all things technology, Jason admits he has a soft spot for gourmet cookies and his three beloved Llasa Apso dogs.
 
@@ -20,6 +20,7 @@ Prior to his decision to focus on Software Engineering, Jason spent 15 years as 
 
 ## Open Source Commits
 
+* [Tablib](http://docs.python-tablib.org/en/master/) - A format agnostic tabular dataset library
 * [Virtualenvwrapper](https://bitbucket.org/virtualenvwrapper/virtualenvwrapper) - Managing Python virtualenvs made easier
 * [Chalice](https://github.com/awslabs/chalice) - Python Serverless Microframework for AWS
 * [Terraform](https://github.com/hashicorp/terraform) - Infrastructure management
@@ -68,6 +69,7 @@ allows a process to change its title
 
 ## Slides and or Code From Presentations
 
+* [PyNash - Aug 2017](https://github.com/jasonamyers/pynashapi-live-rough) - You, I, and the PyNash API (A live coding experiment)
 * [PyCon - May 2017](https://github.com/jasonamyers/pycon-2017-serverless-pipelines) - Leveraging Serverless Architecture for Powerful Data Pipelines
 * [PyOhio - July 2016](https://github.com/jasonamyers/pyohio2016-for-those-about-to-mock) - For those about to Mock I salute you!
 * [PyNash - Jan 2015](https://github.com/jasonamyers/python-static-analysis) - Python Static Analysis [Viewable](http://www.slideshare.net/jamdatadude/python-static-analysis-tools)
