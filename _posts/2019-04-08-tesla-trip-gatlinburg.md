@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 
-Just got back from my first trip in my Tesla Model 3. I was a bit nervous, but mostly because my first trip also included my in-laws riding with us. I along with them great but I knew if the car became a burden during the trip, it wouldn't just be me affected or me and my wife, but all of us. Two of which didn't care about the mission or vision of electric vehicles; they just wanna go on vacation and have fun. (to be fair... so did I.) We went from our home to Gatlinburg and back. It's right at 239 miles one way with a rough overall elevation change of 917ft.
+Just got back from my first trip in my Tesla Model 3. I was a bit nervous, but mostly because my first trip also included my in-laws riding with us. I get along with them great but I knew if the car became a burden during the trip, it wouldn't just be me affected or me and my wife, but all of us. Two of which didn't care about the mission or vision of electric vehicles; they just wanna go on vacation and have fun. (to be fair... so did I.) We went from our home to Gatlinburg and back. It's right at 239 miles one way with a rough overall elevation change of 917ft.
 
 # About Teddy
 Teddy is the name of our Long Range All Wheel Drive Tesla Model 3. We have 19" Sport Wheels, Enhanced AutoPilot, and Full Self Driving. Due to us using a friends referral code, we have free supercharging into next year.
@@ -108,7 +108,7 @@ We had 0 bad lane changes or other random events on the way home.
 ![Day 4 Overview]({{ site.url }}/assets/images/day-4-overview.png)
 
 # Final Thoughts
-This first trip was way more comfortable than I expected and I was the cause of the worry far more than the car. After the second day, I quite worrying about the car at all. Truth be told, I should have known better after reading other's trip reviews.  However, it hard to truly grasp things until you've experienced them first hand. No Confirmation NoA is a game changer, and it makes every part of driving feel more comfortable on the interstate. It's better at lane changes than ever before and if this is a sign of where the future is headed... holy cow is life about to get awesome. 
+This first trip was way more comfortable than I expected and I was the cause of the worry far more than the car. After the second day, I quit worrying about the car at all. Truth be told, I should have known better after reading other's trip reviews.  However, it hard to truly grasp things until you've experienced them first hand. No Confirmation NoA is a game changer, and it makes every part of driving feel more comfortable on the interstate. It's better at lane changes than ever before and if this is a sign of where the future is headed... holy cow is life about to get awesome. 
 
 Charging is more natural than I expected on the road. Superchargers were at great places for us, and provided a welcome break in the trip. If you wanna "power through" it's likely not going to make you happy, but I'm about enjoying the journey to the vacation as well. I asked our in-laws how they felt about it, and they didn't feel it got in the way at all. They didn't seem to be bothered and enjoyed the food breaks as well. 
 
