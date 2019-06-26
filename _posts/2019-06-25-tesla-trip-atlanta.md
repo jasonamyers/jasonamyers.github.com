@@ -22,7 +22,7 @@ We made the decision just shortly after lunch on Friday.  A last-second change m
 As you can see, I came home from work in nashville, we picked up the dogs at home and dropped them off at the vet's for boarding and started on our trip with about 66%. With the charge at 66%, I get over 150 miles, but not enough to get to Atlanta. 
 
 ![Day 1: Nashville to Manchester]({{ site.url }}/assets/images/day-1-nash-manchester.png)
-We decided we would stop for a burger and a car charge in Manchester. It's got a lovely supercharger behind Dunkin Donuts and near Russell Stovers (aka good ice cream). We went from 49% to 95% in 33 minutes at the supercharger!  This level of charge left us with more than enough to get to Atlanta and the hotel we had selected.
+We decided we would stop for a burger and a car charge in Manchester. It's got a lovely supercharger behind Dunkin Donuts and near Russell Stovers (aka good ice cream). We went from 49% to 95% in 33 minutes at the supercharger for free!  This level of charge left us with more than enough to get to Atlanta and the hotel we had selected.
 ![Day 1: Manchester Supercharger]({{ site.url }}/assets/images/day-1-manchester-sc.png)
 
 Navigate on Autopilot with no confirmation lane changes was nearly flawless from Manchester to Atlanta. We had one aborted lane change and one episode of phantom breaking due to the way a car crossed in front of us.
@@ -35,8 +35,7 @@ When we arrived with 29% battery, the valets took my car straight to the charger
 
 ![Aloft Destination Charger]({{ site.url }}/assets/images/day-1-destination-charge.png)
 
-
-When we awoke the next morning, the car was charged back up to 90% (that's the max I charge my vehicle too regularly. I only use 100% when I need it for a trip - see that Gatlinburg one.)
+When we awoke the next morning, the car was charged back up to 90% again for free. (that's the max I charge my vehicle too regularly. I only use 100% when I need it for a trip - see the [Gatlinburg trip](http://www.jasonamyers.com/2019/tesla-trip-gatlinburg/).)
 
 # Play with the fishes
 We made the short drive over to the aquarium and enjoyed our visit there. The aquarium had a bunch of level-2 chargers, but thanks to the full charge via the destination charger at the hotel, we left those spots for other vehicles that might need them and parked in a regular place.  
@@ -57,12 +56,14 @@ This was the first time I've ever been disappointed at a supercharger location. 
 
 Navigate on Autopilot with no confirmation lane changes was flawless from Atlanta to Murfreesboro! We finished off our trip back to Murfreesboro and grabbed a bit to eat. After it was all said and done, we got home with 47% charge. 
 ![Chattanooga to Murfreesboro]({{ site.url }}/assets/images/day-2-chattanooga-murfreesboro.png)
-![Resturant to Home]({{ site.url }}/assets/images/day-2-food-hoome.png)
+![Resturant to Home]({{ site.url }}/assets/images/day-2-food-home.png)
 
 ![Recharging at Home]({{ site.url }}/assets/images/day-2-home-charge.png)
 
 
 # Final Thoughts
 ![Day 2 - Overview map]({{ site.url }}/assets/images/day-2-atl-murf.png)
-This was the first full long trip I had done with Navigate on Autopilot with the lane change in a city as complex at Atlanta. It worked wonderfully both going and coming. I never felt nervous for a moment about how much range we had left at any point in the trip.  In total, we spent 58 minutes charging on the whole trip. Both times it was when we wanted a break or food. I'd love to make a more extended trip and really test out how that changes the impact of my charging.
+This was the first full long trip I had done with Navigate on Autopilot with the lane change in a city as complex at Atlanta. It worked wonderfully both going and coming. I never felt nervous for a moment about how much range we had left at any point in the trip.  In total, we spent 58 minutes charging on the whole trip. Both times it was when we wanted a break or food. We paid nothing, as in $0.00, for charging on this entire trip as I still have free supercharging on my car!
+
+I'd love to make a more extended trip and really test out how that changes the impact of my charging.
 
