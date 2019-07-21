@@ -83,10 +83,11 @@ We arrived all the way home after a couple of bio breaks with 16% left in the ba
 
 # Got Home
 ![Overview map]({{ site.url }}/assets/images/kitties-11-trip-overview.png)
-In totally, we drove 487 miles today, and we paid nothing to make this trip. We had no charging costs (our supercharging is free until October). If we had had to pay for our supercharging, it would have cost $7.18 and still would have saved $38.16 in gas compared to our 2018 MINI Countryman and current gas prices. 
+
+In total, we drove 487 miles today, and we paid nothing to make this trip. We had no charging costs (our supercharging is free until October). If we had had to pay for our supercharging, it would have cost $7.18 and still would have saved $38.16 in gas compared to our 2018 MINI Countryman and current gas prices. 
 
 Every time I think I understand what to expect from my car, I'm surprised by something I've forgotten or some fear that I made up in my head and didn't think about it. Having that charger not been there could have gone a different way. I had a backup plan already in mind (however, it would have been so much slower.)  In the end, all I needed to do was think about what that percentage meant and just trust the car. You can view the charge percentage as miles in the car, and I found myself obsessing over it and switched to the percentage to avoid trying to "hyper mile."  The stop at a nicer supercharger and the break made the rest of the trip a breeze.
 
 On this trip, we had one phantom breaking, one two-step lane change, and one panic and take over. Oh yeah... and autopilot jail... (eyeroll) Anyway, the phantom breaking was due to a dip in the road that aligned with an overpasses shadow. The two-step lane change was due to it being wet and a car coming up two lanes over. The panic was the most interesting one. Teddy was in the second lane leaving ATL when the lanes all shifted to the right in a construction area, and a truck in the right-hand lane didn't get over the solid white line. We had a solid white line on the left as well, and Teddy didn't want to avoid the truck by crossing that line or so it seemed in my head. Either way, we got the super loud beeps and the take over message. 
 
-All in all, I drove about 10 miles of the trip between parkig garages, neighborhoods, stop signs/lights, and sigh... autopilot jail.
+All in all, I drove about 23 miles of the trip between parkig garages, neighborhoods, stop signs/lights, and sigh... autopilot jail.
