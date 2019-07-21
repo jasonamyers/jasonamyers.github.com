@@ -70,7 +70,7 @@ We had the cats in the car, and we turned on dog mode. Dog mode leaves the AC an
 
 ![Electron High at ATL SC]({{ site.url }}/assets/images/kitties-8-atl-sc.png)
 
-# This smuggle these kitties across state lines
+# Smuggle these kitties across state lines
 
 If you read our last trip to the Georgia Aquarium, you'll remember I thought we could have made it home.  This time I wanted to give it a shot. Because I didn't want to go to the Chattanooga supercharger again.  Worst-case scenario, we would have to hit the Manchester one again.  So off we went starting at 93%
 
